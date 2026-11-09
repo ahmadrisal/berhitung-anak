@@ -1,0 +1,11 @@
+{
+  "name": "Ayo Berhitung!",
+  "short_name": "Berhitung",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff0f8",
+  "theme_color": "#ff8fc7",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }]
+}
